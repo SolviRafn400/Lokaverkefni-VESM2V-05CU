@@ -33,6 +33,26 @@
 
   við notum DFPlayer með SDCard sem heldur við nokkur sound files af portal turret sem við fundum hér(https://tuna.voicemod.net/search/sounds/portal-turret/).
   við erum svo með tvo sterio hátalara sem ef er of stórt handa 3D Printið þá notum við minni hátalara
+  
+code:
+  from machine import Pin, ADC
+  import asyncio
+  from dfplayer import DFPlayer
+  df = DFPlayer(2)
+  df.init(tx=17, rx=16)
+  async def main():
+    await df.wait_available()
+    await df.volume(25)
+    for x in range(6):
+        if x+1==6:
+            await df.volume(30)
+            await df.play(1, x+1)
+            await asyncio.sleep_ms(1200)
+        else:
+            await df.volume(25)
+            await df.play(1, x+1)
+            await asyncio.sleep_ms(1200)  
+asyncio.run(main())
 
 ## 3D print
 <img width="595" height="794" alt="image" src="https://github.com/user-attachments/assets/b7ac0088-49bd-49bb-a1fb-d9d7bcb71b20" />

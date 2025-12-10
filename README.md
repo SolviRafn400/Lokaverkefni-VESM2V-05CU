@@ -10,3 +10,13 @@
 * Source. (*alliexpress link hérna*)
   
   hugmyndin var að mappa moteranna við myndavél þannig það getur beinið laser á fólk via facial recognition.
+
+## Myndavél
+<img width="595" height="794" alt="image" src="https://github.com/user-attachments/assets/25d5a068-786b-4282-a82c-710845b60dc3" />
+
+*
+<img width="595" height="794" alt="image" src="https://github.com/user-attachments/assets/7207a108-b186-449b-be15-43de385ec7d4" />
+
+<img width="595" height="794" alt="image" src="https://github.com/user-attachments/assets/b7ac0088-49bd-49bb-a1fb-d9d7bcb71b20" />
+
+<img width="595" height="794" alt="image" src="https://github.com/user-attachments/assets/12029638-cd14-4325-9130-a3f1bd5bb697" />

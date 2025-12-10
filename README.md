@@ -13,7 +13,7 @@
 
 * 2 Micro Servo Motors (MG90S)
 * 1 Laser diode
-* Source. (*alliexpress link hérna*)
+* Source. ([*alliexpress link hérna*](https://www.aliexpress.com/item/1005006539122837.html#nav-specification))
   
   hugmyndin var að mappa moteranna við myndavél þannig það getur beinið laser á fólk via facial recognition.
 
@@ -22,7 +22,7 @@
 
 * Picameras V3
 
-  við erum að nota rasberry Py camera V3 handa facial recognition að nota (*general info hér*)
+  við erum að nota rasberry Py camera V3 handa facial recognition að nota
 
 ## audio speakers
 <img width="595" height="794" alt="image" src="https://github.com/user-attachments/assets/7207a108-b186-449b-be15-43de385ec7d4" />
@@ -78,3 +78,11 @@ asyncio.run(main())
 hugmyndin var að búa til turret frá leiknum Portal 2. okkur lángaði að það gæti miðað á fólk með laser og ítt armanna út þegar myndavélinn sá einhvern og látið ljós blikka í armana eins og hann var að skjóta þig. svo lánguðum við að geta teingið við myndavélinna frá símannum með niceguy. 
 
 en út af of littlum tíma og tæknilega erfileika þurftu við að yfirgefa niceguy og ljósin í armanna og og að hafa mótor til að ýta armana út og focusa á facial recognition, laser móteranna og audioið.
+facial recognition ai sem við notuðum var voða hægt og erfit að nota. hann var voða laggy og var alltaf að lagga og crasha.
+
+## Loka Myndir
+
+<img width="526" height="703" alt="image" src="https://github.com/user-attachments/assets/04a0bca3-a91e-4f54-b083-830627b65e29" />
+
+<img width="526" height="703" alt="image" src="https://github.com/user-attachments/assets/e230f177-d8eb-436d-95a5-50b7dcae9535" />
+
